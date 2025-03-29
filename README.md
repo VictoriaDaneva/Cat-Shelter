@@ -1,1 +1,1 @@
-A cute children's game we all adore! The game is written in JavaScript using the lit-html library.
+A Node.js web application that stores data in JSON files—all about those irresistibly cute cats! :3
